@@ -113,7 +113,7 @@ Fruit Freshness Dataset (Apple, Banana, Orange):
 - Covers multiple fruits and vegetables  
 - Combined to improve model diversity and robustness
 
-## 👩‍💻 Authors
+## Authors
 
 - **Aishika Mitra** (23052052)
 - **Barninee Samanta** (23052564)
@@ -121,4 +121,5 @@ Fruit Freshness Dataset (Apple, Banana, Orange):
 - **Krittik Panda** (23051994)
 - **Soumik Maiti** (23051790)
 - **Souvik Mandal** (23052036)
+
 **Project Guide:** Dr. Suchismita Das, School of Computer Engineering, KIIT University.
